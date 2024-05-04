@@ -1,6 +1,6 @@
 Hola Soy Lazaro Billani , Soy estudiante del Bootcamp 2024 en la universidad UNTREF 💻🤓
 
-!/giphy.gif
+!https://github.com/Billanilazaro97/Billanilazaro97/blob/main/giphy.gif
 
 Mis redes sociales 💻🌐 :
 <ul> 
