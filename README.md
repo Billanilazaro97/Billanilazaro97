@@ -4,8 +4,7 @@ Hola Soy Lazaro Billani , Soy estudiante del Bootcamp 2024 en la universidad UNT
 
 Mis redes sociales 💻🌐 :
 <ul> 
-  <li><img width="20" heigth="20" src="linkedin.png"> https://www.linkedin.com/in/lazaro-billani/
-</li>
+  <li><a href="https://www.linkedin.com/in/lazaro-billani"></a><img width="20" heigth="20" src="linkedin.png"></li>
   <li><img width="20" heigth="20" src="instagram.png">https://www.instagram.com/lazarobillani/
   </li>
 </ul>
