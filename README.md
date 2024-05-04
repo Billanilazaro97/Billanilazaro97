@@ -1,4 +1,4 @@
-Hola Soy Lazaro Billani, Naci el 27 enero de 1997, Soy estudiante del Bootcamp 2024 en la universidad UNTREF 💻🤓
+<span style="color:blue">Hola Soy Lazaro Billani, Naci el 27 enero de 1997, Soy estudiante del Bootcamp 2024 en la universidad UNTREF</span> 💻🤓
 
 Me empezo a gustar el mundo de la informatica por mi padre que siempre
  se dedico a esto, a partir del año 2022 me empeze capacitar en este mundo
@@ -13,4 +13,5 @@ Mis redes sociales 💻🌐 :
   <img width="80" heigth="80" src="linkedin.png"></a>
  <a href="https://www.instagram.com/lazarobillani/">
   <img width="80" heigth="80" src="instagram.png"></a>
+
 
