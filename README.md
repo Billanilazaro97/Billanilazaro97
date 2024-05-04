@@ -6,7 +6,6 @@ Mis redes sociales 💻🌐 :
 <ul> 
   <li><img width="20" heigth="20" src="linkedin.png"> https://www.linkedin.com/in/lazaro-billani/
 </li>
-  <li>
-    https://www.instagram.com/lazarobillani/
+  <li><img width="20" heigth="20" src="instagram.png">https://www.instagram.com/lazarobillani/
   </li>
 </ul>
