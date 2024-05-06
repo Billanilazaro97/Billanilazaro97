@@ -8,7 +8,7 @@ y ahi fue donde llamo la atencion la programacion 💻</h3></h1>
 
 
 <img align='right' src='giphy.gif'
-width='600' height="300"/>
+width='500' height="300"/>
 
 
 Mis redes sociales 💻🌐 :
