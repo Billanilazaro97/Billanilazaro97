@@ -1,4 +1,5 @@
-<h2>!Hola!,Soy Lazaro Billani, un entusiasta de la informatica y estudiante del Bootcamp 2024 en la Universidad UNTREF.💻🤓</h2>
+<h2>
+¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h2>
 
 <h3>Sobre mi🤓:</h3>
 <ul>
@@ -6,12 +7,13 @@
     Fecha de nacimiento: 27 de enero de 1997
   </li>
   <li>
-    Inicie mi interes por la informatica gracias ami padre, quien siempre ha trabajo en este campo.
+    Mi interés por la informática comenzó gracias a la influencia de mi padre, quien ha sido una inspiración en este camino.
   </li>
   <li>
-    Comence a capacitarme en el mundo de la informatica en 2022, momento en el que descubri mi pasion por la programacion 💻.
+    Desde el año 2022, me he estado sumergiendo en el mundo de la programación 💻, descubriendo su fascinante potencial y desafiante creatividad.
   </li>
 </ul>
+¡Estoy emocionado de compartir mi viaje y contribuir al emocionante mundo del desarrollo de software en GitHub!
 
 
 
