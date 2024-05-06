@@ -14,6 +14,7 @@
   </li>
 </ul>
 ¡Estoy emocionado de compartir mi viaje y contribuir al emocionante mundo del desarrollo de software en GitHub!
+<hr>
 
 
 
