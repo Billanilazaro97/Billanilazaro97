@@ -1,5 +1,5 @@
 <h3>¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h3>
-
+<hr>
 
 <h3>Sobre mi🤓:</h3>
 <ul>
