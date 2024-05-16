@@ -31,13 +31,11 @@ Mis redes sociales 💻🌐:
 
 
 <a href="https://www.linkedin.com/in/lazaro-billani/">
-<img width="50" heigth="50" src="/img/linkedin.png"></a>
+<img width="70" heigth="70" src="/img/linkedin.png"></a>
 <a href="https://www.instagram.com/lazarobillani/">
-<img width="50" heigth="50" src="/img/instagram.png"></a>
-
+<img width="70" heigth="70" src="/img/instagram.png"></a>
 <hr>
 
-<h2> Lenguajes y herramientas 👨 💻 🛠: <h2>
 
 
 
