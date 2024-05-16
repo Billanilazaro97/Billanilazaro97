@@ -19,8 +19,8 @@
 
 
 
-<img align='right' src='/img/coderman.gif'
-width='250' height="200"/>
+<img align='center' src='/img/coderman.gif'
+width='400' height="250"/>
 
 
 
