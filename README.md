@@ -23,7 +23,7 @@
 width='500' height="300"/>
 
 
-<br>
+
 Mis redes sociales 💻🌐 :</h2>
  
   <a href="https://www.linkedin.com/in/lazaro-billani/">
@@ -32,7 +32,7 @@ Mis redes sociales 💻🌐 :</h2>
   <img width="80" heigth="80" src="instagram.png"></a>
   
 <img align='right' src='connected.gif'
-width='500' height="300"/>
+width='100' height="100"/>
  
 
 
