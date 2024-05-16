@@ -20,7 +20,7 @@
 
 
 <img align='right' src='/img/coderman.gif'
-width='500' height="300"/>
+width='250' height="200"/>
 
 
 
