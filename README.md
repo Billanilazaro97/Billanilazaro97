@@ -21,7 +21,7 @@
 
 <img align='right' src='/img/coderman.gif'
 width='500' height="300"/>
-<hr>
+
 
 
 Mis redes sociales 💻🌐:
