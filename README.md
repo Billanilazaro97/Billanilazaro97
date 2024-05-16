@@ -16,6 +16,24 @@
 ¡Estoy emocionado de compartir mi viaje y contribuir al emocionante mundo del desarrollo de software en GitHub!
 
 
+
+
+
+<img align='right' src='giphy.gif'
+width='500' height="300"/>
+
+
+Mis redes sociales 💻🌐 :
+ 
+  <a href="https://www.linkedin.com/in/lazaro-billani/">
+  <img width="80" heigth="80" src="linkedin.png"></a>
+ <a href="https://www.instagram.com/lazarobillani/">
+  <img width="80" heigth="80" src="instagram.png"></a>
+
+
+
+
+
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -35,17 +53,3 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |==========='
-
-
-<img align='right' src='giphy.gif'
-width='500' height="300"/>
-
-
-Mis redes sociales 💻🌐 :
- 
-  <a href="https://www.linkedin.com/in/lazaro-billani/">
-  <img width="80" heigth="80" src="linkedin.png"></a>
- <a href="https://www.instagram.com/lazarobillani/">
-  <img width="80" heigth="80" src="instagram.png"></a>
-
-
