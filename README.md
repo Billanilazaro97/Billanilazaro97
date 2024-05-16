@@ -19,7 +19,7 @@
 
 
 
-<img align='right' src='coderman.gif'
+<img align='right' src='/img/coderman.gif'
 width='500' height="300"/>
 
 
@@ -31,6 +31,12 @@ Mis redes sociales 💻🌐:
   <img width="80" heigth="80" src="linkedin.png"></a>
  <a href="https://www.instagram.com/lazarobillani/">
   <img width="80" heigth="80" src="instagram.png"></a>
+
+  <hr>
+
+<h2>Conocimientos</h2>
+
+
 
  
 
