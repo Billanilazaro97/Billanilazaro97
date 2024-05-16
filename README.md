@@ -32,9 +32,9 @@ Mis redes sociales 💻🌐:
  <a href="https://www.instagram.com/lazarobillani/">
   <img width="80" heigth="80" src="instagram.png"></a>
 
-  <hr>
+  
 
-<h2>Conocimientos</h2>
+
 
 
 
