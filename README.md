@@ -18,19 +18,17 @@
 
 
 
-
+<hr>
 <img align='right' src='/img/coderman.gif'
 width='500' height="300"/>
 
 
 
 Mis redes sociales 💻🌐:
-
-
-  <a href="https://www.linkedin.com/in/lazaro-billani/">
-  <img width="80" heigth="80" src="/img/linkedin.png"></a>
- <a href="https://www.instagram.com/lazarobillani/">
-  <img width="80" heigth="80" src="/img/instagram.png"></a>
+<a href="https://www.linkedin.com/in/lazaro-billani/">
+<img width="80" heigth="80" src="/img/linkedin.png"></a>
+<a href="https://www.instagram.com/lazarobillani/">
+<img width="80" heigth="80" src="/img/instagram.png"></a>
 
   
 
