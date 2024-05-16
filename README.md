@@ -23,19 +23,20 @@
 width='500' height="300"/>
 
 
-<Div>
-<h2>Mis redes sociales 💻🌐 :</h2>
+<br>
+Mis redes sociales 💻🌐 :</h2>
  
   <a href="https://www.linkedin.com/in/lazaro-billani/">
   <img width="80" heigth="80" src="linkedin.png"></a>
  <a href="https://www.instagram.com/lazarobillani/">
   <img width="80" heigth="80" src="instagram.png"></a>
+  
+<img align='right' src='connected.gif'
+width='500' height="300"/>
+ 
 
-  <img align='right' src='connected.gif>
-  width='500' height="300"/>
 
-
-  </div>
+  
 
 
 
