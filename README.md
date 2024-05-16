@@ -28,9 +28,9 @@ Mis redes sociales 💻🌐:
 
 
   <a href="https://www.linkedin.com/in/lazaro-billani/">
-  <img width="80" heigth="80" src="linkedin.png"></a>
+  <img width="80" heigth="80" src="/img/linkedin.png"></a>
  <a href="https://www.instagram.com/lazarobillani/">
-  <img width="80" heigth="80" src="instagram.png"></a>
+  <img width="80" heigth="80" src="/img/instagram.png"></a>
 
   
 
