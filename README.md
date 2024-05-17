@@ -5,9 +5,7 @@
 <ul>
   <li>Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻
   </li>
-  <li>
-    Fecha de nacimiento: 27 de enero de 1997
-  </li>
+  
   <li>
     Mi interés por la informática comenzó gracias a la influencia de mi padre, quien ha sido una inspiración en este camino.
   </li>
