@@ -1,4 +1,4 @@
-a<h3>¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h3>
+<h3>¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h3>
 <hr>
 
 <h3>Sobre mi🤓:</h3>
@@ -45,6 +45,14 @@ Mis redes sociales 💻🌐:
 
 <a href="https://www.w3schools.com/html/default.asp">
 <img  aling="center" width="70" heigt="70" src="/img/html-5.png"></a>
+<a href="https://git-scm.com/">
+<img  aling="center" width="70" heigt="70" src="/img/git.png"></a>
+<a href="https://www.w3schools.com/css/default.asp">
+<img  aling="center" width="70" heigt="70" src="/img/css-3.png"></a>
+<a href="https://github.com/Billanilazaro97/Billanilazaro97">
+<img  aling="center" width="70" heigt="70" src="/img/github.png"></a>
+<a href="https://code.visualstudio.com/">
+<img  aling="center" width="70" heigt="70" src="/img/estudio-visual.png"></a>
 
 
 
