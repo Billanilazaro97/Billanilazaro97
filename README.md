@@ -24,7 +24,7 @@ width='400' height="250"/>
 
 
 
-<h1>Mis redes sociales 💻🌐:</h1>
+<h1>📬 Encuéntrame en:</h1>
 
 
 
@@ -53,6 +53,8 @@ width='400' height="250"/>
 <img  aling="center" width="70" heigt="70" src="/img/github.png"></a>
 <a href="https://code.visualstudio.com/">
 <img  aling="center" width="70" heigt="70" src="/img/estudio-visual.png"></a>
+<a href="https://code.visualstudio.com/docs/terminal/basics">
+<img  aling="center" width="70" heigt="70" src="/img/terminal.png"></a>
 
 
 
