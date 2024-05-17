@@ -1,4 +1,4 @@
-<h3>¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h3>
+a<h3>¡Hola a todos! Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻. Actualmente estoy participando en el Bootcamp 2024 en la Universidad UNTREF, donde estoy expandiendo mis conocimientos y habilidades en este emocionante campo.</h3>
 <hr>
 
 <h3>Sobre mi🤓:</h3>
@@ -39,7 +39,12 @@ Mis redes sociales 💻🌐:
 
 
 
-<h1>🔧 Tecnologías y herramientas</h1>
+<h1>Languages & Tools 👨‍💻 🛠:</h1>
+
+
+
+<a href="https://www.w3schools.com/html/default.asp">
+<img  aling="center" width="70" heigt="70" src="/img/html-5.png"></a>
 
 
 
