@@ -40,6 +40,14 @@ Mis redes sociales 💻🌐:
 
 
 
+⚡ Tecnologías:
+<a href="https://code.visualstudio.com/Download">
+<img width="70" heigth="70" src="/img/estudio-visual.png"></a>
+
+
+
+
+
 
 
 
