@@ -24,7 +24,7 @@ width='400' height="250"/>
 
 
 
-Mis redes sociales 💻🌐:
+<h1>Mis redes sociales 💻🌐:</h1>
 
 
 
