@@ -1,7 +1,7 @@
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜👋</h1>
 
 
-<h3>Sobre mi🤓:</h3>
+<h1>Sobre mi🤓:</h1>
 <ul>
   <li>Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻
   </li>
