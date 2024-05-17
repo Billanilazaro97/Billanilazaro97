@@ -39,8 +39,7 @@ Mis redes sociales 💻🌐:
 
 
 
-
-
+🔧 Tecnologías y herramientas
 
 
 
