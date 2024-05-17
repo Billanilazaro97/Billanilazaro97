@@ -39,7 +39,7 @@ Mis redes sociales 💻🌐:
 
 
 
-🔧 Tecnologías y herramientas
+<h1>🔧 Tecnologías y herramientas</h1>
 
 
 
