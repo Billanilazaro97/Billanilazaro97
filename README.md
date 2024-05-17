@@ -1,9 +1,9 @@
-<h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜</h1>
+<h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜👋</h1>
 <hr>
 
 <h3>Sobre mi🤓:</h3>
 <ul>
-  <li>soy Lázaro Billani, un apasionado de la tecnología y la informática 💻
+  <li>Soy Lázaro Billani, un apasionado de la tecnología y la informática 💻
   </li>
   <li>
     Fecha de nacimiento: 27 de enero de 1997
