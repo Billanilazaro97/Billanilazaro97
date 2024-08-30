@@ -39,22 +39,25 @@ width='400' height="250"/>
 
 
 
+
 <h1>Languages & Tools 👨‍💻 🛠:</h1>
 
 
 
 <a href="https://www.w3schools.com/html/default.asp">
-<img  aling="center" width="70" heigt="70" src="/img/html-5.png"></a>
+<img  aling="center" width="70" height="70" src="/img/html-5.png"></a>
 <a href="https://git-scm.com/">
-<img  aling="center" width="70" heigt="70" src="/img/git.png"></a>
+<img  aling="center" width="70" height="70" src="/img/git.png"></a>
 <a href="https://www.w3schools.com/css/default.asp">
-<img  aling="center" width="70" heigt="70" src="/img/css-3.png"></a>
+<img  aling="center" width="70" height="70" src="/img/css-3.png"></a>
 <a href="https://github.com/Billanilazaro97/Billanilazaro97">
-<img  aling="center" width="70" heigt="70" src="/img/github.png"></a>
+<img  aling="center" width="70" height="70" src="/img/github.png"></a>
 <a href="https://code.visualstudio.com/">
-<img  aling="center" width="70" heigt="70" src="/img/estudio-visual.png"></a>
+<img  aling="center" width="70" height="70" src="/img/estudio-visual.png"></a>
 <a href="https://code.visualstudio.com/docs/terminal/basics">
-<img  aling="center" width="70" heigt="70" src="/img/linea-de-comando.png"></a>
+<img  aling="center" width="70" height="70" src="/img/linea-de-comando.png"></a>
+<a href="https://www.w3schools.com/js/default.asp">
+<img aling="center" width="70" height="70" src="/JavaScript.png"></a>
 
 
 
